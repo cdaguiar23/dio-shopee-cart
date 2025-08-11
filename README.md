@@ -13,7 +13,7 @@ Este projeto é um carrinho de compras inspirado no modelo da Shopee, desenvolvi
 
 ## Tecnologias Utilizadas
 
-- **Frontend:** (Nodes.js, Javascript)
+- **Frontend:** (Node.js, Javascript)
 
 ## Instalação
 
